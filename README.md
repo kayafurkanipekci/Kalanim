@@ -1,22 +1,22 @@
-# Kalanim
+# Kalanım
 
-Bimcell ve Turk Telekom hatlarinda kalan bakiye, dakika, SMS ve internet bilgilerini tek tusla ogrenmeyi saglayan sade bir Android uygulamasidir.
+Bimcell ve Türk Telekom hatlarında kalan bakiye, dakika, SMS ve internet bilgilerini tek tuşla öğrenmeyi sağlayan sade bir Android uygulamasıdır.
 
-Dedelerin veya kucuk yazilari okumakta zorlananlarin "Benim internetim bitti mi?" sorusuna kesin cozum olarak gelistirilmistir.
+Dedelerimiz, ninelerimiz ve küçük yazıları okumakta zorlanan büyüklerimiz için "Benim internetim bitti mi?" sorusuna pratik bir çözüm olarak geliştirilmiştir.
 
-## Ozellikler
+## Özellikler
 
-- Tek Tusla Sorgu: Butona basildiginda 5555'e gerekli mesajlari atar ve yaniti bekler.
-- Sesli Okuma: Yanit geldiginde bakiye ve kalan haklari Turkce olarak sesli okur.
-- Tekrar Dinle: Kaciranlar icin aninda yeniden seslendirir.
-- Otomatik Geri Sayim: Paket bitisine kac gun kaldigini her gece 00:00'da kendiliginden hesaplayip gunceller.
-- Ana Ekran Widget'lari: 3 farkli boyutta (hizli buton, ozet ve detayli) widget destegi sunar. Hizli buton uygulamayi acmadan arka planda sorguyu calistirip sonucu sesli okur.
+- Tek Tuşla Sorgu: Butona basıldığında 5555'e gerekli mesajları atar ve yanıtı bekler.
+- Sesli Okuma: Yanıt geldiğinde bakiye ve kalan hakları Türkçe olarak sesli okur.
+- Tekrar Dinle: Kaçıranlar için anında yeniden seslendirir.
+- Otomatik Geri Sayım: Paket bitişine kaç gün kaldığını her gece 00:00'da kendiliğinden hesaplayıp günceller.
+- Ana Ekran Widget'ları: 3 farklı boyutta (hızlı buton, özet ve detaylı) widget desteği sunar. Hızlı buton uygulamayı açmadan arka planda sorguyu çalıştırıp sonucu sesli okur.
 
 ## Kurulum
 
-Releases sayfasindan guncel APK dosyasini indirip telefonunuza kurabilirsiniz.
+Releases sayfasından güncel APK dosyasını indirip telefonunuza kurabilirsiniz.
 
-## Gelistirme
+## Geliştirme
 
 ```bash
 git clone https://github.com/kayafurkanipekci/Kalanim.git
